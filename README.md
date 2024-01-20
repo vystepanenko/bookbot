@@ -1,2 +1,2 @@
 # bookbot
-practicing python
+BookBot is my first git project!
